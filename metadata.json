@@ -1,0 +1,6 @@
+{
+  "name": "ASTA Stock Market Eye-Opener Live Session",
+  "description": "High-converting, professional landing page for the ASTA 3-Hour Free Live Stock Market Eye-Opener Session by Avadhut Sathe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
